@@ -10,7 +10,7 @@ BigTreeTech theme for mainsail
 2. create a new directory named `.theme`
     <img src=demo/theme_add.png width="800" /><br/>
 3. Download the files in this repository.
-    <img src=demo/file_down.png width="800" /><br/>
+    <img src=demo/file_down.png width="400" /><br/>
 3. upload theme files in `.theme` directory
     ```
     custom.css
